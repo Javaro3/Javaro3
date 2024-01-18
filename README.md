@@ -1,5 +1,7 @@
 ## Hey 👋, I'm Karol Vasily!
 
+---
+
 ### 🔨 Languages and Tools:
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="left" src="https://github.com/Javaro3/Javaro3/blob/main/icons/csharp.svg" alt="csharp" height="42px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/Javaro3/Javaro3/blob/main/icons/python.svg"></a>
