@@ -23,7 +23,7 @@
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=javaro3" alt="Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=javaro3" />
+      <img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=javaro3&layout=compact" />
     </td>
   </tr>
 </table>
