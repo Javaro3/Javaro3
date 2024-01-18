@@ -16,6 +16,7 @@
 <a href="https://github.com/" target="_blank"><img align="left" alt="Git" height ="42px" src="https://github.com/Javaro3/Javaro3/blob/main/icons/github.svg"></a>
 <a href="https://www.heroku.com" target="_blank"><img align="left" alt="Heroku" height ="42px" src="https://github.com/Javaro3/Javaro3/blob/main/icons/heroku.svg"></a>
 <br>
+
 ---
 ### ⚙️ GitHub Stats:
 <table>
