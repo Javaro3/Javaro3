@@ -46,4 +46,4 @@ I'm delighted to welcome you to the page of a budding programmer, passionately d
 
 ---
 ### 🏅 LeetCode 
-<img height="300px" align="center" alt="Github Languages" src="https://leetcode-api-65c9cfc6c683.herokuapp.com/?username=Javaro3" />
+<img height="300px" align="middle" alt="Github Languages" src="https://leetcode-api-65c9cfc6c683.herokuapp.com/?username=Javaro3" />
