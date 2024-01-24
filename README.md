@@ -41,8 +41,5 @@ I'm delighted to welcome you to the page of a budding programmer, passionately d
     <td>
       <img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=javaro3&layout=compact" />
     </td>
-   <td>
-      <img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=javaro3&layout=compact" />
-    </td>
   </tr>
 </table>
