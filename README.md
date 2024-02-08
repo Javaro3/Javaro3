@@ -46,5 +46,4 @@ I'm delighted to welcome you to the page of a budding programmer, passionately d
 
 ---
 ### 🏅 LeetCode 
-
-
+<img height="300px" text-align="center" alt="LeetCode Stats" src="https://leetcode-api-65c9cfc6c683.herokuapp.com/?username=Javaro3" />
