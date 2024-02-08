@@ -39,11 +39,7 @@ I'm delighted to welcome you to the page of a budding programmer, passionately d
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=javaro3" alt="Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="Github Languages" src="https://camo.githubusercontent.com/4aba94ace1d75eca309fdeb5bb69cba9ad259fd521bc91794a9a53280f966d81/68747470733a2f2f6c656574636f64652d6170692d3635633963666336633638332e6865726f6b756170702e636f6d2f3f757365726e616d653d4a617661726f33" />
+      <img height="195px" align="right" alt="LeetCode Stats" src="https://leetcode-api-65c9cfc6c683.herokuapp.com/?username=Javaro3" />
     </td>
   </tr>
 </table>
-
----
-### 🏅 LeetCode 
-<img height="300px" text-align="center" alt="LeetCode Stats" src="https://leetcode-api-65c9cfc6c683.herokuapp.com/?username=Javaro3" />
