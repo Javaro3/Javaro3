@@ -1,4 +1,4 @@
-## Hey 👋, I'm Karol Vasily!
+Karol Vasily!
 ---
 I'm delighted to welcome you to the page of a budding programmer, passionately diving into the world of code and technologies. My language of choice is C#, where I build web applications on ASP.NET Core, breathe life into interfaces using JS, HTML, and CSS, and explore the possibilities of Python. Here, you'll find traces of my exciting experiments and learning projects.
 
